@@ -3,10 +3,10 @@
 #include "binary_trees.h"
 
 /**
- * main - Entry point
- *
- * Return: Always 0 (Success)
- */
+* main - Entry point
+*
+* Return: Always 0 (Success)
+*/
 int main(void)
 {
 binary_tree_t *root;
@@ -17,7 +17,7 @@ root->left = binary_tree_node(root, 12);
 root->right = binary_tree_node(root, 402);
 binary_tree_insert_right(root->left, 54);
 binary_tree_insert_right(root, 128);
-   // binary_tree_print(root);
+// binary_tree_print(root);
 
 depth = binary_tree_depth(root);
 printf("Depth of %d: %lu\n", root->n, depth);
