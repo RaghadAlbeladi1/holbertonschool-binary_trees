@@ -27,11 +27,23 @@
     <p>
       <strong>Skills gained:</strong> memory allocation, recursion, data structure implementation,
       tree traversals, and pointer management.
-      
- <strong>What is a Binary Tree?</strong>A binary tree is a hierarchical data structure where each node has at most two children, referred to as the left and right child. It is used in various applications such as searching, sorting, and expression parsing.
+
+  <!-- السؤال والكلام -->
+  <div>
+    <p style="margin: 0;">
+      <strong>What is a Binary Tree?</strong>
+    </p>
+    <p style="margin: 5px 0 0 0;"> </div>
+
+  <div style="display: flex; align-items: center; gap: 15px;">
+  <img src="https://www.mathwarehouse.com/programming/images/binary-search-tree/binary-search-tree-sorted-array-animation.gif" 
+       alt="Binary Tree Animation" 
+       style="width: 80px; height: auto;">  A binary tree is a hierarchical data structure where each node has at most two children, referred to as the left and right child. It is used in various applications such as searching, sorting, and expression parsing.
     </p>
   </div>
-  
+
+</div>
+
 ---
 | **File**                          | **Description**                                               |
 |----------------------------------|---------------------------------------------------------------|
