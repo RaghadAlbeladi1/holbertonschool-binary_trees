@@ -16,30 +16,20 @@
     <img src="https://img.shields.io/badge/GitHub-Najwa_Aljunaidel-181717?style=flat-square&logo=github&logoColor=white" alt="Najwa's GitHub">
   </a>
 </p>
-<p align="center">
-  This is a group project by <strong>Raghad</strong> & <strong>Najwa</strong>, it's part of our studies at 
-  <a href="https://tuwaiq.edu.sa/holberton">Holberton School by Tuwaiq Academy</a>.
-</p>
-
----
-
-<h2 align="center">Description</h2>
-
 <div style="display: flex; align-items: flex-start; justify-content: space-between; max-width: 900px; margin: 0 auto;">
   <div style="flex: 1; padding-right: 20px;">
     <p>
-      This project focuses on implementing and manipulating <strong>binary trees</strong> using the C programming language.
-      It is part of the low-level programming curriculum at
-      <a href="https://www.holbertonschool.com/">Holberton School</a>. In this project, we explored the creation of binary tree nodes, insertion (left/right), traversals, and property checks
-      (like height, depth, balance, etc).
+      This is a group project by <strong>Raghad</strong> & <strong>Najwa</strong>, as part of our studies at 
+      <a href="https://tuwaiq.edu.sa/holberton">Holberton School by Tuwaiq Academy</a>. It focuses on implementing and manipulating <strong>binary trees</strong> using the C programming language.
+      We explored the creation of binary tree nodes, insertion (left/right), traversals, and property checks
+      such as height, depth, and balance.
     </p>
     <p>
       <strong>Skills gained:</strong> memory allocation, recursion, data structure implementation,
       tree traversals, and pointer management.
     </p>
   </div>
-  <div style="flex-shrink: 0;">
-
+  
 ---
 
 <h2 align="center"> Project Files</h2>
