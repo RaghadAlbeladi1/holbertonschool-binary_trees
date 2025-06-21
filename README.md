@@ -64,6 +64,22 @@
   No global variables, Max 5 functions per <code>.c</code> file, Include guard required in <code>binary_trees.h</code>
 </p>
 
+---
+
+## Installation & Compilation
+```bash
+git clone https://github.com/RaghadAlbeladi1/holbertonschool-binary_trees.git
+cd holbertonschool-binary_trees
+````
+Compile and test one task (example: task 0)
+````
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 \
+  binary_tree_print.c 0-binary_tree_node.c 0-main.c -o 0-node
+````
+Run
+````
+./0-node
+````
 
 
 
