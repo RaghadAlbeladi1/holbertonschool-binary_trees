@@ -48,7 +48,7 @@
 
 ### Raghad Albeladi
 
-- Created and initialized the **project repository** with Git.
+- Created and initialized the **project repository** with Git -> **holbertonschool-binary_trees**
 - Wrote and structured the **README.md** file for the project.
 
 | File | Description |
