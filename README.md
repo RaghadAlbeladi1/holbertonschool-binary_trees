@@ -98,6 +98,50 @@ int main(void) {
     return 0;
 }
 ````
+### Testing
+To use any implemented binary tree function, include the header file `binary_trees.h` and write your main program like this:
+
+```c
+#include "binary_trees.h"
+
+int main(void)
+{
+    binary_tree_t *root;
+
+    root = binary_tree_node(NULL, 98);
+    root->left = binary_tree_node(root, 12);
+    root->right = binary_tree_node(root, 402);
+
+    binary_tree_print(root);
+
+    binary_tree_delete(root);
+
+    return (0);
+}
+```
+Here are some examples of what you should expect when testing different functionalities:
+
+| Task                 | Command      | Expected Output / Behavior                |
+|----------------------|--------------|------------------------------------------|
+| Create a node        | `./0-node`    | Prints a binary tree with root node and children |
+| Insert left child    | `./1-left`    | Left child added correctly                |
+| Insert right child   | `./2-right`   | Right child added correctly               |
+| Tree traversals      | `./6-pre`     | Nodes printed in preorder                  |
+|                      | `./7-in`      | Nodes printed in inorder                   |
+|                      | `./8-post`    | Nodes printed in postorder                 |
+| Measure tree properties | `./9-height` | Prints height of the tree                 |
+|                      | `./10-depth`  | Prints depth of a node                     |
+|                      | `./11-size`   | Prints total number of nodes               |
+| Count leaves/nodes   | `./12-leaves` | Prints number of leaf nodes                |
+|                      | `./13-nodes`  | Prints number of nodes with children       |
+| Check balance        | `./14-balance`| Prints balance factor                      |
+| Check full/perfect   | `./15-full`   | Returns 1 if full, 0 otherwise             |
+|                      | `./16-perfect`| Returns 1 if perfect, 0 otherwise          |
+| Find relatives       | `./17-sibling`| Prints sibling node or NULL                |
+|                      | `./18-uncle`  | Prints uncle node or NULL                   |
+
+Make sure to verify your output matches the expected behavior for each function.
+
 
 
 
