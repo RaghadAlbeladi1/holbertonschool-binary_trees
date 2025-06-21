@@ -46,11 +46,15 @@
 
 ## Project files
 
-#### Raghad Albeladi
+### Raghad Albeladi
+
+- Created and initialized the **project repository** with Git.
+- Wrote and structured the **README.md** file for the project.
 
 | File | Description |
 |-------|-------------|
 | ![binary_trees.h](https://img.shields.io/badge/-binary_trees.h-blueviolet) | Header file defining the binary tree node struct, typedefs, and all function prototypes. |
+| ![0-main.c](https://img.shields.io/badge/-0--main.c-blueviolet) | Main driver file for building and printing a sample binary tree. |
 | ![0-binary_tree_node.c](https://img.shields.io/badge/-0--binary_tree_node.c-blue) | Implements creation of a new binary tree node. Allocates memory, initializes node's value, parent pointer, and sets left and right children to NULL. |
 | ![2-binary_tree_insert_right.c](https://img.shields.io/badge/-2--binary_tree_insert_right.c-yellow) | Inserts a new node as the right child of a given parent node. Manages existing right child similarly by re-linking it to the new node. |
 | ![4-binary_tree_is_leaf.c](https://img.shields.io/badge/-4--binary_tree_is_leaf.c-orange) | Checks if a given node is a leaf node (i.e., has no children). Returns 1 if leaf, else 0. |
@@ -60,7 +64,8 @@
 | ![12-binary_tree_leaves.c](https://img.shields.io/badge/-12--binary_tree_leaves.c-lightcoral) | Counts how many leaf nodes (nodes without children) exist in the tree. |
 | ![14-binary_tree_balance.c](https://img.shields.io/badge/-14--binary_tree_balance.c-lightgray) | Calculates the balance factor of a node: height(left subtree) - height(right subtree). |
 | ![16-binary_tree_is_perfect.c](https://img.shields.io/badge/-16--binary_tree_is_perfect.c-lightseagreen) | Determines if the tree is perfect: all internal nodes have two children and all leaves are at the same depth. |
-#### Najwa 
+  
+### Najwa Aljunaidel
 
 | File | Description |
 |-------|-------------|
