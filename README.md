@@ -29,16 +29,15 @@
       tree traversals, and pointer management.
   <div>
     <p style="margin: 0;">
-      <strong>What is a Binary Tree?</strong>
-    </p>
-    <p style="margin: 5px 0 0 0;"> </div>
-  <div style="display: flex; align-items: center; gap: 15px;">
+      <strong>What is a Binary Tree?</strong> 
+   <div style="display: flex; align-items: center; gap: 20px; padding: 15px; border-radius: 12px; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 750px;">
+  <!-- صورة متحركة -->
   <img src="https://www.mathwarehouse.com/programming/images/binary-search-tree/binary-search-tree-sorted-array-animation.gif" 
        alt="Binary Tree Animation" 
-       style="width: 80px; height: auto;">  A binary tree is a hierarchical data structure where each node has at most two children, referred to as the left and right child. It is used in various applications such as searching, sorting, and expression parsing.
+       style="width: 120px; height: auto; border-radius: 8px;">
+      <p align="Left"> A binary tree is a hierarchical data structure where each node has at most two children, referred to as the left and right child. It is used in various applications such as searching, sorting, and expression parsing.
     </p>
-  </div>
-      
+
 ---
 | **File**                          | **Description**                                               |
 |----------------------------------|---------------------------------------------------------------|
