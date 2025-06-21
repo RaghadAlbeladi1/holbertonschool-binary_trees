@@ -16,4 +16,4 @@ return (0);
 if (tree->left != NULL || tree->right != NULL)
 return (1 + binary_tree_nodes(tree->left) + binary_tree_nodes(tree->right));
 return (binary_tree_nodes(tree->left) + binary_tree_nodes(tree->right));
-}i
+}
