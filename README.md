@@ -27,6 +27,8 @@
     <p>
       <strong>Skills gained:</strong> memory allocation, recursion, data structure implementation,
       tree traversals, and pointer management.
+      
+   <strong>What is a Binary Tree?</strong>A binary tree is a hierarchical data structure where each node has at most two children, referred to as the left and right child. It is used in various applications such as searching, sorting, and expression parsing.
     </p>
   </div>
   
@@ -80,7 +82,16 @@ Run
 ````
 ./0-node
 ````
+## Examples
+To use any of the implemented binary tree functions, include the header file binary_trees.h in your C code and compile it with the required .c source files.
+````
+#include "binary_trees.h"
 
+int main(void) {
+    /* Your code here */
+    return 0;
+}
+````
 
 
 
