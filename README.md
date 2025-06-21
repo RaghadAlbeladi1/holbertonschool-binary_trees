@@ -60,8 +60,10 @@
 
 <p><strong>Code Style:</strong> Betty style (checked with <code>betty-style.pl</code> &amp; <code>betty-doc.pl</code>)</p>
 
-<p><strong>Restrictions:</strong></p> <li>No global variables</li> <li>Max 5 functions per <code>.c</code> file</li> <li>Include guard required in <code>binary_trees.h</code></li>
-</ul>
+  <strong style="display: inline-block; width: 120px;">Restrictions:</strong>
+  No global variables, Max 5 functions per <code>.c</code> file, Include guard required in <code>binary_trees.h</code>
+</p>
+
 
 
 
