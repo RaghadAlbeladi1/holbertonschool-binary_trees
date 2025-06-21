@@ -1,14 +1,16 @@
-<p align="center"> <h1 style="font-size: 3em; "> C - Binary Trees</h1> </p>
-<br>
 
-This is a group project by Raghad & Najwa , it's part of our studies at <td><a href="https://tuwaiq.edu.sa/holberton">Holberton School by Tuwaiq Academy</a></td>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-language-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Binary_Tree-Project-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Holberton-School-red?style=flat-square" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C logo" width="60" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/5f8d33ce-fed8-438a-935c-a9916afef26e" alt="Holberton logo" width="120" height="60"/>
+  &nbsp;&nbsp;
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&duration=4998&pause=987&color=2BF74E&background=197A2300&width=300&height=50&lines=Binary+Trees+project+" alt="Typing SVG" />
+  </a>
 </p>
 
----
+
+This is a group project by Raghad & Najwa , it's part of our studies at <td><a href="https://tuwaiq.edu.sa/holberton">Holberton School by Tuwaiq Academy</a></td>
 <p align="center">
   <a href="https://github.com/RaghadAlbeladi1">Raghad Albeladi</a> &nbsp;💡&nbsp;
   <a href="https://github.com/NajwaAljunaidel">Najwa Aljunaidel</a>
