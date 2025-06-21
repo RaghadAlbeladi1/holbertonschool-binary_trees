@@ -56,9 +56,15 @@
 | ![0-main.c](https://img.shields.io/badge/-0--main.c-lightcyan)                               | Main driver file that builds a sample binary tree using the above functions and prints it. Serves as test and demonstration code. |
 
 ---
+<h2 align=>Requirements</h2>  <p><strong>OS:</strong> Ubuntu 20.04 LTS   <strong>Compiler:</strong> gcc with flags <code>-Wall -Werror -Wextra -pedantic -std=gnu89</code> <strong>Editor:</strong> vi, vim, or emacs</p>
 
-<h2 align="center">🛠️ How to Compile</h2>
+<p><strong>Code Style:</strong> Betty style (checked with <code>betty-style.pl</code> &amp; <code>betty-doc.pl</code>)</p>
 
-```bash
-gcc -Wall -Wextra -Werror -pedantic -std=gnu89 *.c -o binary_tree
+<p><strong>Restrictions:</strong></p> <li>No global variables</li> <li>Max 5 functions per <code>.c</code> file</li> <li>Include guard required in <code>binary_trees.h</code></li>
+</ul>
+
+
+
+
+
 
