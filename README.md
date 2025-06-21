@@ -90,6 +90,8 @@ Compile and test one task (example: task 0)
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 \
   binary_tree_print.c 0-binary_tree_node.c 0-main.c -o 0-node
 ````
+![C5FOCL4VcAEeMqn](https://github.com/user-attachments/assets/6056e47e-24dc-46a3-a444-1d86e03b1a49)
+
 Run
 ````
 ./0-node
