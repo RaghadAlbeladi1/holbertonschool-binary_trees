@@ -80,6 +80,19 @@
 | ![17-binary_tree_sibling.c](https://img.shields.io/badge/-17--binary_tree_sibling.c-lightsalmon) | Finds the sibling of a given node, i.e., the other child of the node's parent. |
 
 
+
+## Development & Git Flow
+At the beginning of the project, we faced challenges in understanding how to collaborate effectively using Git.  
+One of the main issues was the lack of experience with team-based Git workflows — especially the process of assigning reviews and waiting for Approval before merging tasks to the main branch.  
+This led to confusion until we fully understood how to use branches, pull requests, and code reviews properly.  
+Once we established a clear workflow, collaboration became smoother.  
+
+We also encountered difficulties with Betty style errors. Each time a style issue appeared in a file, we created a new branch to isolate and fix it.  
+Although this was time-consuming, it helped us better understand code styling and commit practices.  
+Overall, the process improved our skills in Git collaboration, problem-solving, and writing clean, team-reviewed code.  
+
+![From panic to pro](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ2bnI4YTh5ZWsyZ2dwNGszcDRvOXdyaHRrNWU0b3F4dXZqMDRyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mCRJDo24UvJMA/giphy.gif)
+
 ---
 <h2 align=>Requirements</h2>  <p><strong>OS:</strong> Ubuntu 20.04 LTS   <strong>Compiler:</strong> gcc with flags <code>-Wall -Werror -Wextra -pedantic -std=gnu89</code> <strong>Editor:</strong> vi, vim, or emacs</p>
 
@@ -89,7 +102,6 @@
   No global variables, Max 5 functions per <code>.c</code> file, Include guard required in <code>binary_trees.h</code>
 </p>
 
----
 
 ## Installation & Compilation
 ```bash
@@ -160,6 +172,9 @@ Here are some examples of what you should expect when testing different function
 |                      | `./18-uncle`  | Prints uncle node or NULL                   |
 
 Make sure to verify your output matches the expected behavior for each function.
+
+
+
 
 
 
