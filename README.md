@@ -93,7 +93,7 @@ Overall, the process improved our skills in Git collaboration, problem-solving, 
 
 ![From panic to pro](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ2bnI4YTh5ZWsyZ2dwNGszcDRvOXdyaHRrNWU0b3F4dXZqMDRyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mCRJDo24UvJMA/giphy.gif)
 
----
+
 <h2 align=>Requirements</h2>  <p><strong>OS:</strong> Ubuntu 20.04 LTS   <strong>Compiler:</strong> gcc with flags <code>-Wall -Werror -Wextra -pedantic -std=gnu89</code> <strong>Editor:</strong> vi, vim, or emacs</p>
 
 <p><strong>Code Style:</strong> Betty style (checked with <code>betty-style.pl</code> &amp; <code>betty-doc.pl</code>)</p>
